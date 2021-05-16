@@ -3,6 +3,8 @@ module github.com/logicwonder/url-shortner
 go 1.15
 
 require (
+	github.com/go-chi/chi v1.5.4
+	github.com/go-chi/chi/v5 v5.0.3
 	github.com/go-redis/redis/v8 v8.8.2
 	github.com/teris-io/shortid v0.0.0-20201117134242-e59966efd125
 	github.com/vmihailenco/msgpack v4.0.4+incompatible

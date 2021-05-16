@@ -1,4 +1,4 @@
-module shortner
+module github.com/logicwonder/url-shortner
 
 go 1.15
 

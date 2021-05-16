@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	shortner "github.com/logicwonder/url-shortner"
+	"github.com/logicwonder/url-shortner/shortner"
 )
 
 type Redirect struct{}

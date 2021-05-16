@@ -3,7 +3,7 @@ package msgpack
 import (
 	"fmt"
 
-	shortner "github.com/logicwonder/url-shortner"
+	"github.com/logicwonder/url-shortner/shortner"
 	"github.com/vmihailenco/msgpack"
 )
 
